@@ -60,4 +60,6 @@ For a deep dive into the architecture diagrams, challenges faced, and a step-by-
 <img width="694" height="567" alt="Screenshot 2026-03-10 142310" src="https://github.com/user-attachments/assets/1c0f96ad-a0f9-43e4-83fa-7cd4cc8b23fe" />
 <img width="702" height="541" alt="Screenshot 2026-03-10 142157" src="https://github.com/user-attachments/assets/e70b85bb-b812-42a5-b92a-98d9d0a0d971" />
 <img width="702" height="608" alt="Screenshot 2026-03-10 142243" src="https://github.com/user-attachments/assets/7d3a6e9d-95db-496d-9bb6-61b1efb51cf3" />
+<img width="1008" height="1065" alt="image_e27e525c" src="https://github.com/user-attachments/assets/9e7acddf-839b-4b15-882d-36c0d8b46630" />
+
 
